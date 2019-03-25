@@ -1,5 +1,9 @@
 //www.elegoo.com
 //2016.12.08
+
+//the code for the SR04 ARRAY I worked on at the social. currently there is no code to make it work with the 
+//neopixels, but it does test for distance and determines where Pac-man is on a grid...so its a start...
+
 #include "SR04.h"
 #define TRIG_PIN_0 53
 #define ECHO_PIN_0 52
